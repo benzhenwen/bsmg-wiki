@@ -81,6 +81,7 @@ export const en = defineConfig({
               ['Intermediate Lighting', '/mapping/intermediate-lighting'],
               ['Advanced Lighting', '/mapping/advanced-lighting'],
               ['Extended Lighting', '/mapping/extended-lighting'],
+              ['Environment Enhancement', '/mapping/chroma-environment-enhancement'],
               ['Default Environment Colors', '/mapping/lighting-defaults'],
             ],
           ],

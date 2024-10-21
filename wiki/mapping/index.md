@@ -373,6 +373,10 @@ Advanced and nuanced techniques
 
 Lighting for custom platforms and Chroma RGB
 
+### [**Chroma Environment Enhancement**](./chroma-environment-enhancement.md)
+
+Remove, add, modify, and duplicate parts of the environment
+
 ### Automated Lights
 
 Not ready to make your own lighting? Here are some programs to do it for you. Keep in mind, creating simple manual lighting
